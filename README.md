@@ -9,3 +9,7 @@
 ---
 
 [Тестовое задание](https://docs.google.com/document/d/1SeddvefZ9ezzd9VAqmsCQr4Zgs0VjW6H7_uxrYMeu3k/edit?usp=sharing)
+
+---
+
+[Тестовое задание](https://docs.google.com/document/d/1fW_-NCKTm06jkoZfIuaM8LnnVrXkcW6n/edit?usp=sharing&ouid=102001146044118938447&rtpof=true&sd=true)
