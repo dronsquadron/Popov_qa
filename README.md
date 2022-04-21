@@ -16,7 +16,7 @@
 
 ---
 
-[Тестовое задание](https://www.tutorialspoint.com/execute_sql_online.php)
+[Тестовое задание](http://tpcg.io/Y3DI8O)
 
 ---
 
